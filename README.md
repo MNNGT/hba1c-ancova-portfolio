@@ -24,6 +24,20 @@ After correctly parsing decimal commas, the dataset has **75 observations**, **3
 
 An earlier version of the coursework imported decimal-comma measurements as much larger numbers, producing misleading results. This version documents and corrects that issue. The dataset alone is not enough to substantiate a causal intervention claim.
 
+## Scientific Report
+
+The complete statistical analysis is available as an interactive HTML report generated using R and Quarto.
+
+The report includes:
+- Descriptive statistics and data quality checks
+- Baseline-adjusted ANCOVA
+- Model diagnostics and assumption checks
+- Robust HC3 sensitivity analysis
+- Interpretation of results and study limitations
+
+**[View the Scientific Report](https://mnngt.github.io/hba1c-ancova-portfolio/report.html)**
+
+
 ## Run locally
 
 From the project root in RStudio or an R terminal:
