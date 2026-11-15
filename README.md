@@ -3,7 +3,11 @@
 
 ---
 
-**[Read the Scientific Report – R & Quarto](https://mnngt.github.io/hba1c-ancova-portfolio/report.html)**
+
+**📊 [Scientific Report – English](https://mnngt.github.io/hba1c-ancova-portfolio/report.html)**
+
+**📊 [Rapport scientifique – Français](https://mnngt.github.io/hba1c-ancova-portfolio/report.fr.html)**
+
 
 ---
 
