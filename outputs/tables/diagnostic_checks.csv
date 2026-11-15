@@ -1,0 +1,8 @@
+"check","value"
+"Complete observations","75"
+"Duplicate IDs","0"
+"Baseline-by-group interaction p","0.941066"
+"Residual Shapiro-Wilk p","0.642031"
+"Residual Fligner-Killeen p","0.0334919"
+"Change Welch t-test p","1.21863e-06"
+"Change Wilcoxon rank-sum p","7.94279e-06"
