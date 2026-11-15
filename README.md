@@ -1,3 +1,12 @@
+
+**Language / Langue:** [English](README.md) | [Français](README.fr.md)
+
+---
+
+**[Read the Scientific Report – R & Quarto](https://mnngt.github.io/hba1c-ancova-portfolio/report.html)**
+
+---
+
 # HbA1c ANCOVA in R — university coursework reanalysis
 
 **Independent educational reanalysis of a supplied course dataset; not original clinical-trial evidence.** The file `data/hb.csv` is not synthetic. Its research provenance and measurement units are not independently documented in the CSV. The original university assignment describes a two-group parallel comparison with HbA1c measured at baseline and follow-up.
