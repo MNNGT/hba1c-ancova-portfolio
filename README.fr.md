@@ -1,4 +1,9 @@
+
 **Langue / Language :** [Français](README.fr.md) | [English](README.md)
+
+---
+
+**[Consulter le rapport scientifique – R & Quarto](https://mnngt.github.io/hba1c-ancova-portfolio/report.html)**
 
 ---
 
